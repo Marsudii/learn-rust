@@ -308,13 +308,7 @@ Rust is commonly used for:
 
 ---
 
-## 👨‍💻 Author
 
-Created by **your-name-here**
-
-This repository is part of my journey to learn Rust from basic to advanced.
-
----
 
 ## ⭐ Support
 
